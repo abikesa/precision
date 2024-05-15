@@ -5,7 +5,12 @@ Craft: Ambiguity vs. [Precision](https://www.youtube.com/watch?v=6n5SqwERoOc)?
 - Telecommute; Of the genre of the very best?
 - `Fast-Iterate-Speed`; Yes, because...
 - Progress; My Fave Womens Jam says so!
-  
+- But my [Welch Center Research Pearls](https://jhustata.github.io/intermediate/quickrefs.html#welch-center-research-pearl) fiasco:
+   - Should've kept to simple idea of do `${repo}welchcenter.do`
+   - In a word: remote directory workflow
+   - But the temptation to talk version control, seamless collaboration, and transparency?
+   - Muddied my thoughts, presentation, and attempts to pack my "5min of fame"
+   - Let's remain lucid, simple, precise, elemental
 > $\frac{\partial}{\partial t}\text{Costs, Relations, Advantage} \sim \ \beta_0 + \beta_1 \text{Peasant} + \beta_2 \text{Farmer} + \beta_3 \text{Manufacturer} + \beta_4 \text{Energy} + \beta_5 \text{Transportation} + \epsilon_i$
 
  
