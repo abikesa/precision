@@ -1,3 +1,5 @@
+*Since brevity is the soul of wit ... I will be brief - Polonius*
+
 Craft: Ambiguity vs. [Precision](https://www.youtube.com/watch?v=6n5SqwERoOc)?
 
 - Ship; No iterations with Precision
